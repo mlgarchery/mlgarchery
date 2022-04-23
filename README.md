@@ -13,4 +13,4 @@ On April 14th, during a the [PBWS](https://www.pbwsummit.com/) hackathon, my tea
 
 On discord: Martial#0399
 
-[LinkedIn](www.linkedin.com/in/martial-garchery-852a94164) 
+[LinkedIn](https://www.linkedin.com/in/martial-garchery-852a94164) 
