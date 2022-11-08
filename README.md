@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @mlgarchery
 
 I am a french developer at [Unyc](https://www.linkedin.com/company/unyc-io/).
-I have experience in web, ML and gamedev.
+I have experience in Web, ML and gamedev.
 
 ## 👀 I’m currently very interested in 
 
