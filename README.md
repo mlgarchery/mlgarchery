@@ -5,6 +5,6 @@ I have experience in Web, ML and gamedev.
 
 ## 📫 How to reach me
 
-Discord: Martial#0399
+Discord: martialg
 
 [LinkedIn](https://www.linkedin.com/in/martial-garchery-852a94164) 
