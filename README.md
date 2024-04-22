@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @mlgarchery
 
-I am a french developer at [Morpho Labs](https://github.com/morpho-labs).
-I have experience in Web, ML and gamedev.
+I am a french developer with experience in Web, ML and gamedev.
+Building something new!
 
 ## 📫 How to reach me
 
